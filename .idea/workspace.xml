@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f53f6f2f-14ea-41aa-a488-e350d22d485d" name="Changes" comment="Add BreakContinue.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Return.kt" afterDir="false" />
+    <list default="true" id="f53f6f2f-14ea-41aa-a488-e350d22d485d" name="Changes" comment="Add Return.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/BreakContinueLabel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +41,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.ReturnKt">
+  <component name="RunManager" selected="Kotlin.BreakContinueLabelKt">
     <configuration name="BreakContinueKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BreakContinueKt" />
       <module name="PemrogramanKotlin2" />
@@ -48,8 +49,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PenerapanFor_LoopKalkulatorEksponensialKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PenerapanFor_LoopKalkulatorEksponensialKt" />
+    <configuration name="BreakContinueLabelKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BreakContinueLabelKt" />
       <module name="PemrogramanKotlin2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.BreakContinueLabelKt" />
         <item itemvalue="Kotlin.ReturnKt" />
         <item itemvalue="Kotlin.BreakContinueKt" />
         <item itemvalue="Kotlin.PenerapanWhile_LoopKalkulatorSederhanaKt" />
         <item itemvalue="Kotlin.WhileDo_WhileLoopKt" />
-        <item itemvalue="Kotlin.PenerapanFor_LoopKalkulatorEksponensialKt" />
       </list>
     </recent_temporary>
   </component>
@@ -270,11 +271,17 @@
       <option name="project" value="LOCAL" />
       <updated>1725887541378</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Add Return.kt">
+      <created>1725887913090</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1725887913090</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add Main.kt" />
     <MESSAGE value="Add Array.kt" />
     <MESSAGE value="Add ArrayStandardKotlin.kt" />
     <MESSAGE value="Add ArrayTipePrimitive.kt" />
@@ -299,6 +306,7 @@
     <MESSAGE value="Add WhileDo-WhileLoop.kt" />
     <MESSAGE value="Add PenerapanWhile-LoopKalkulatorSederhana.kt" />
     <MESSAGE value="Add BreakContinue.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add BreakContinue.kt" />
+    <MESSAGE value="Add Return.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Return.kt" />
   </component>
 </project>
