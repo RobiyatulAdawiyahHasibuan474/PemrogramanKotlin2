@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f53f6f2f-14ea-41aa-a488-e350d22d485d" name="Changes" comment="Add WhileDo-WhileLoop.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PenerapanWhile-LoopKalkulatorSederhana.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f53f6f2f-14ea-41aa-a488-e350d22d485d" name="Changes" comment="Add PenerapanWhile-LoopKalkulatorSederhana.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/BreakContinue.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +40,14 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.PenerapanWhile_LoopKalkulatorSederhanaKt">
+  <component name="RunManager" selected="Kotlin.BreakContinueKt">
+    <configuration name="BreakContinueKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BreakContinueKt" />
+      <module name="PemrogramanKotlin2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PenerapanFor_LoopKalkulatorEksponensialKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PenerapanFor_LoopKalkulatorEksponensialKt" />
       <module name="PemrogramanKotlin2" />
@@ -63,13 +69,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Perulangan_For_Loop_Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Perulangan_For_Loop_Kt" />
-      <module name="PemrogramanKotlin2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="WhileDo_WhileLoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="WhileDo_WhileLoopKt" />
       <module name="PemrogramanKotlin2" />
@@ -79,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.BreakContinueKt" />
         <item itemvalue="Kotlin.PenerapanWhile_LoopKalkulatorSederhanaKt" />
         <item itemvalue="Kotlin.WhileDo_WhileLoopKt" />
         <item itemvalue="Kotlin.PenerapanFor_LoopKalkulatorEksponensialKt" />
         <item itemvalue="Kotlin.PenerapanFor_LoopPerkalianKt" />
-        <item itemvalue="Kotlin.Perulangan_For_Loop_Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -257,7 +256,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725885141107</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Add PenerapanWhile-LoopKalkulatorSederhana.kt">
+      <created>1725886303401</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1725886303401</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -284,6 +290,7 @@
     <MESSAGE value="Add PenerapanFor-LoopPerkalian.kt" />
     <MESSAGE value="Add PenerapanFor-LoopKalkulatorEksponensial.kt" />
     <MESSAGE value="Add WhileDo-WhileLoop.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add WhileDo-WhileLoop.kt" />
+    <MESSAGE value="Add PenerapanWhile-LoopKalkulatorSederhana.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add PenerapanWhile-LoopKalkulatorSederhana.kt" />
   </component>
 </project>
