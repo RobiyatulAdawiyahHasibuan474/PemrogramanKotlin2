@@ -41,7 +41,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.KalkulatorSederhanaPercabanganWhenKt">
+  <component name="RunManager" selected="Kotlin.Perulangan_For_Loop_Kt">
     <configuration name="KalkulatorSederhanaPercabanganKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KalkulatorSederhanaPercabanganKt" />
       <module name="PemrogramanKotlin2" />
@@ -63,8 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PercabanganKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PercabanganKt" />
+    <configuration name="Perulangan_For_Loop_Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Perulangan_For_Loop_Kt" />
       <module name="PemrogramanKotlin2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Perulangan_For_Loop_Kt" />
         <item itemvalue="Kotlin.KalkulatorSederhanaPercabanganWhenKt" />
         <item itemvalue="Kotlin.WhenKt" />
         <item itemvalue="Kotlin.KalkulatorSederhanaPercabanganKt" />
         <item itemvalue="Kotlin.Percabangan2Kt" />
-        <item itemvalue="Kotlin.PercabanganKt" />
       </list>
     </recent_temporary>
   </component>
