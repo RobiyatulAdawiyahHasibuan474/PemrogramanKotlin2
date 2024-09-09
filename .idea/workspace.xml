@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f53f6f2f-14ea-41aa-a488-e350d22d485d" name="Changes" comment="Add PenerapanFor-LoopPerkalian.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PenerapanFor-LoopKalkulatorEksponensial.kt" afterDir="false" />
+    <list default="true" id="f53f6f2f-14ea-41aa-a488-e350d22d485d" name="Changes" comment="Add PenerapanFor-LoopKalkulatorEksponensial.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/WhileDo-WhileLoop.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,14 +34,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Kotlin.PenerapanFor_LoopKalkulatorEksponensialKt">
+}</component>
+  <component name="RunManager" selected="Kotlin.WhileDo_WhileLoopKt">
     <configuration name="KalkulatorSederhanaPercabanganWhenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KalkulatorSederhanaPercabanganWhenKt" />
       <module name="PemrogramanKotlin2" />
@@ -70,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WhenKt" />
+    <configuration name="WhileDo_WhileLoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhileDo_WhileLoopKt" />
       <module name="PemrogramanKotlin2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.WhileDo_WhileLoopKt" />
         <item itemvalue="Kotlin.PenerapanFor_LoopKalkulatorEksponensialKt" />
         <item itemvalue="Kotlin.PenerapanFor_LoopPerkalianKt" />
         <item itemvalue="Kotlin.Perulangan_For_Loop_Kt" />
         <item itemvalue="Kotlin.KalkulatorSederhanaPercabanganWhenKt" />
-        <item itemvalue="Kotlin.WhenKt" />
       </list>
     </recent_temporary>
   </component>
@@ -243,7 +243,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725879930655</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Add PenerapanFor-LoopKalkulatorEksponensial.kt">
+      <created>1725880104487</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1725880104487</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -268,6 +275,7 @@
     <MESSAGE value="Add KalkulatorSederhanaPercabanganWhen.kt" />
     <MESSAGE value="Add Perulangan(For Loop).kt" />
     <MESSAGE value="Add PenerapanFor-LoopPerkalian.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add PenerapanFor-LoopPerkalian.kt" />
+    <MESSAGE value="Add PenerapanFor-LoopKalkulatorEksponensial.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add PenerapanFor-LoopKalkulatorEksponensial.kt" />
   </component>
 </project>
