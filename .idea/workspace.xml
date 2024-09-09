@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f53f6f2f-14ea-41aa-a488-e350d22d485d" name="Changes" comment="Add ArrayStandardKotlin.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ArrayTipePrimitive.kt" afterDir="false" />
+    <list default="true" id="f53f6f2f-14ea-41aa-a488-e350d22d485d" name="Changes" comment="Add ArrayTipePrimitive.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ArrayMethod.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,9 +41,16 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.ArrayTipePrimitiveKt">
+  <component name="RunManager" selected="Kotlin.ArrayMethodKt">
     <configuration name="ArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayKt" />
+      <module name="PemrogramanKotlin2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayMethodKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayMethodKt" />
       <module name="PemrogramanKotlin2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -64,6 +72,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ArrayMethodKt" />
         <item itemvalue="Kotlin.ArrayTipePrimitiveKt" />
         <item itemvalue="Kotlin.ArrayStandardKotlinKt" />
         <item itemvalue="Kotlin.ArrayKt" />
@@ -100,13 +109,21 @@
       <option name="project" value="LOCAL" />
       <updated>1725872579235</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add ArrayTipePrimitive.kt">
+      <created>1725873029158</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725873029158</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add Main.kt" />
     <MESSAGE value="Add Array.kt" />
     <MESSAGE value="Add ArrayStandardKotlin.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add ArrayStandardKotlin.kt" />
+    <MESSAGE value="Add ArrayTipePrimitive.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add ArrayTipePrimitive.kt" />
   </component>
 </project>
