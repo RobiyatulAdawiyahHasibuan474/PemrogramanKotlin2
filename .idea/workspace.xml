@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f53f6f2f-14ea-41aa-a488-e350d22d485d" name="Changes" comment="Add ArrayMultidimensi.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Collections.kt" afterDir="false" />
+    <list default="true" id="f53f6f2f-14ea-41aa-a488-e350d22d485d" name="Changes" comment="Add Collections.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ListOf.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +40,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.CollectionsKt">
+  <component name="RunManager" selected="Kotlin.ListOfKt">
     <configuration name="Array2DimensiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array2DimensiKt" />
       <module name="PemrogramanKotlin2" />
@@ -62,13 +62,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayTipePrimitiveKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayTipePrimitiveKt" />
-      <module name="PemrogramanKotlin2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="CollectionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CollectionsKt" />
       <module name="PemrogramanKotlin2" />
@@ -76,13 +69,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ListOfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListOfKt" />
+      <module name="PemrogramanKotlin2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ListOfKt" />
         <item itemvalue="Kotlin.CollectionsKt" />
         <item itemvalue="Kotlin.ArrayMultidimensiKt" />
         <item itemvalue="Kotlin.Array2DimensiKt" />
         <item itemvalue="Kotlin.ArrayMethodKt" />
-        <item itemvalue="Kotlin.ArrayTipePrimitiveKt" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725874946371</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Add Collections.kt">
+      <created>1725875455278</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1725875455278</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -155,6 +162,7 @@
     <MESSAGE value="Add ArrayMethod.kt" />
     <MESSAGE value="Add Array2Dimensi.kt" />
     <MESSAGE value="Add ArrayMultidimensi.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add ArrayMultidimensi.kt" />
+    <MESSAGE value="Add Collections.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Collections.kt" />
   </component>
 </project>
