@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f53f6f2f-14ea-41aa-a488-e350d22d485d" name="Changes" comment="Add ListOf.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/MutableListOf.kt" afterDir="false" />
+    <list default="true" id="f53f6f2f-14ea-41aa-a488-e350d22d485d" name="Changes" comment="Add MutableListOf.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ArrayListOf.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,9 +41,9 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.MutableListOfKt">
-    <configuration name="Array2DimensiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array2DimensiKt" />
+  <component name="RunManager" selected="Kotlin.ArrayListOfKt">
+    <configuration name="ArrayListOfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayListOfKt" />
       <module name="PemrogramanKotlin2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ArrayListOfKt" />
         <item itemvalue="Kotlin.MutableListOfKt" />
         <item itemvalue="Kotlin.ListOfKt" />
         <item itemvalue="Kotlin.CollectionsKt" />
         <item itemvalue="Kotlin.ArrayMultidimensiKt" />
-        <item itemvalue="Kotlin.Array2DimensiKt" />
       </list>
     </recent_temporary>
   </component>
@@ -158,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725875736457</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Add MutableListOf.kt">
+      <created>1725876097969</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1725876097969</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -171,6 +179,7 @@
     <MESSAGE value="Add ArrayMultidimensi.kt" />
     <MESSAGE value="Add Collections.kt" />
     <MESSAGE value="Add ListOf.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add ListOf.kt" />
+    <MESSAGE value="Add MutableListOf.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add MutableListOf.kt" />
   </component>
 </project>
