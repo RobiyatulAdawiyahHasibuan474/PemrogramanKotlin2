@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f53f6f2f-14ea-41aa-a488-e350d22d485d" name="Changes" comment="Add Return.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/BreakContinueLabel.kt" afterDir="false" />
+    <list default="true" id="f53f6f2f-14ea-41aa-a488-e350d22d485d" name="Changes" comment="Add BreakContinueLabel.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/SafetyNull.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +41,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.BreakContinueLabelKt">
+  <component name="RunManager" selected="Kotlin.KalkulatorSederhanaPercabanganKt">
     <configuration name="BreakContinueKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BreakContinueKt" />
       <module name="PemrogramanKotlin2" />
@@ -56,8 +56,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PenerapanWhile_LoopKalkulatorSederhanaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PenerapanWhile_LoopKalkulatorSederhanaKt" />
+    <configuration name="KalkulatorSederhanaPercabanganKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KalkulatorSederhanaPercabanganKt" />
       <module name="PemrogramanKotlin2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -70,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileDo_WhileLoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WhileDo_WhileLoopKt" />
+    <configuration name="SafetyNullKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SafetyNullKt" />
       <module name="PemrogramanKotlin2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.KalkulatorSederhanaPercabanganKt" />
+        <item itemvalue="Kotlin.SafetyNullKt" />
         <item itemvalue="Kotlin.BreakContinueLabelKt" />
         <item itemvalue="Kotlin.ReturnKt" />
         <item itemvalue="Kotlin.BreakContinueKt" />
-        <item itemvalue="Kotlin.PenerapanWhile_LoopKalkulatorSederhanaKt" />
-        <item itemvalue="Kotlin.WhileDo_WhileLoopKt" />
       </list>
     </recent_temporary>
   </component>
@@ -278,11 +278,17 @@
       <option name="project" value="LOCAL" />
       <updated>1725887913090</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Add BreakContinueLabel.kt">
+      <created>1725888732867</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1725888732867</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add Array.kt" />
     <MESSAGE value="Add ArrayStandardKotlin.kt" />
     <MESSAGE value="Add ArrayTipePrimitive.kt" />
     <MESSAGE value="Add ArrayMethod.kt" />
@@ -307,6 +313,7 @@
     <MESSAGE value="Add PenerapanWhile-LoopKalkulatorSederhana.kt" />
     <MESSAGE value="Add BreakContinue.kt" />
     <MESSAGE value="Add Return.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Return.kt" />
+    <MESSAGE value="Add BreakContinueLabel.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add BreakContinueLabel.kt" />
   </component>
 </project>
